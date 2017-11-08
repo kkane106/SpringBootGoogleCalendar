@@ -1,10 +1,6 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
-gradlew.bat
-gradlew
-bin
-gradle
 src/test
 
 ### STS ###
