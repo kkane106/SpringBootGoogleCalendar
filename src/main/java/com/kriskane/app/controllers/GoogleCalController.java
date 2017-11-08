@@ -121,7 +121,9 @@ public class GoogleCalController {
 		return authorizationUrl.build();
 	}
 	
-	
+	/**
+	 * Preserve this version with timezones on branch
+	 */
 	
 	/** Used to parse DateTime from return state parameter, along with Timezone included with og request from JS
 	 * NOTE : This is entirely optional, you could choose not to include these parameters at all and instead deal only
